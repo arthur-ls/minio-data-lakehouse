@@ -1,0 +1,6 @@
+kaggle_project: "jaderz/hospital-beds-management"
+file_path:
+  - "patients.csv"
+  - "services_weekly.csv"
+  - "staff.csv"
+  - "staff_schedule.csv"
